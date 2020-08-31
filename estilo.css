@@ -1,0 +1,14 @@
+p {
+    background-color: rgba(166, 230, 186, 0.685);
+}
+body {
+    background-image: url(fundo2\ \(1\).png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100% 100%;
+}
+h1 {
+    background-color: rgba(224, 99, 49, 0.685);
+
+}
